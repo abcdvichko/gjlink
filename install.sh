@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.6.1"
-DOWNLOAD_HOST="https://github.com/abcdvichko/gjlink/tree/main/gjlink"
+DOWNLOAD_HOST="https://github.com/abcdvichko/gjlink/raw/main/gjlink/"
 ORIGIN_EXEC="gjlink-${VERSION}"
 
 SERVICE_NAME="gjlinkservice"

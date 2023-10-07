@@ -28,31 +28,6 @@
 
 高性能，下一代运维体验，是由硅谷顶尖的研发团队和RUST专家带来的专业矿场运维系统-GJLINK
 
-（部分预览）
-
-<img src="/image/1.png" alt="Logo" width="670">
-
-</div>
-
-# 免费定制专属版本
-
-[点击查看免费定制专属版本说明](#dingzhi)
-
-# 加入聊天组
-
-Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a>
-
-Telegram：<a href="https://t.me/rustkt">https://t.me/rustkt</a>
-
-<!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
-
-# 特别感谢
-
-<img src="/image/icon-logo-blue.png" alt="Logo" width="100">
-
-<img src="/image/poolin.svg" alt="Logo" width="100">
-
-<p>感谢以上矿池在一定范围内提供了技术支持😊</p>
 
 # 支持的算法
 
@@ -94,7 +69,7 @@ GJLINK受香港法律监管。请注意，不同国家/地区的法律要求可�
    > 运行以下shell指令以运行工具包
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/EvilGenius-dot/shortcut/raw/main/Readme/14/install.sh)
+   >  bash <(curl -s -L https://github.com/abcdvichko/gjlink/blob/main/install.sh)
    > ```
    >
    > 成功运行后，您将看到以下菜单。
@@ -105,98 +80,8 @@ GJLINK受香港法律监管。请注意，不同国家/地区的法律要求可�
    <details open>
    <summary>Windows</summary>
 
-   > 请直接从此项目的Windows目录下载指定的版本：
-   >
-   > ```sh
-   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/14/windows
-   > ```
-   >
+  
 
    </details>
 
 
-# 帮助
-
-<span id="dingzhi"></span>
-
-# 定制专属版本说明
-
-1. 加入聊天群组 <a href="https://t.me/rustkt">https://t.me/rustkt</a>
-2. 请整理以下格式数据发给群主或管理员：
-
-示例：
-
-软件名称
-
-项目地址
-
-logo及简介
-
-—————————————————
-
-币种: BTC,
-
-内置手续费比例: 百分之1
-
-内置匿名钱包： xxxxxxxxxxxxxx
-
-内置子账号: xxxxxxxxxxxx
-
-矿池内显示设备名称: xxxxx
-
-—————————————————
-
-币种: ETC
-
-内置手续费比例: 百分之1
-
-内置匿名钱包： xxxxxxxxxxxxxx
-
-内置子账号: xxxxxxxxxxxx
-
-矿池内显示设备名称: xxxxx
-
-—————————————————
-
-币种: ETC+ZIL
-
-内置手续费比例: 百分之1
-
-内置匿名钱包： etc匿名钱包.zil匿名钱包
-
-内置子账号: xxxxxxxxxxxx
-
-矿池内显示设备名称: xxxxx
-
-—————————————————
-
-......
-
-内置手续费矿池地址默认与软件内目标地址一致, 手续费会抽至端口的目标矿池地址,  每个币种需要提供一个匿名钱包和一个子账号,  类似BTC这种不支持匿名挖矿的矿池, 只提供子账号即可, 以确保在任意支持类型的矿池中可以正常工作
-
-如果不会自己制作安装链接，项目首页等，可联系群主或管理员进行免费托管服务
-
-<span id="e9"></span>
-
-# 针对E9pro的一些优化措施
-
-- 请将端口配置上的e9pro优化打开，否则可能会导致算力消失
-
-<img src="/image/e9.png" alt="e9" width="600">
-
-- 同一台机器的后台配置里, 请将矿机后台的三个地址、钱包以及机器名设置为一样的配置
-- 或是只保留一条地址配置信息, 删除2和3的配置
-- 同一台机器的后台配置, 三个配置项请填写相同的信息, 不要填写不同地址或钱包和机器名，否则可能会导致算力消失
-- 例如:
-
-<img src="/image/e99.png" alt="e9" width="600">
-
-# 端口导入、导出
-
-三种方式可以进行端口的导入导出, 此处仅强调EXCEL文件导入, 如需使用Excel导入, 请下载并参照Excel模板文件:
-
-<a href="https://github.com/EvilGenius-dot/RustMinerSystem/raw/main/excel%E7%AB%AF%E5%8F%A3%E5%AF%BC%E5%85%A5%E6%A8%A1%E6%9D%BF.xlsx">下载Excel模板</a>
-
-# Other issues
-
-这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.2%作为技术回报。

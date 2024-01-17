@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.9.3"
+VERSION="3.9.4"
 DOWNLOAD_HOST="https://github.com/abcdvichko/gjlink/raw/main/gjlink/"
 ORIGIN_EXEC="gjlink-${VERSION}"
 
